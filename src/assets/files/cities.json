@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Cuenca",
+      "image": "city.jpg"
+    },
+    {
+      "name": "Guayaquil",
+      "image": "city.jpg"
+    },
+    {
+      "name": "Quito",
+      "image": "city.jpg"
+    },
+    {
+      "name": "Ambato",
+      "image": "city.jpg"
+    }
+  ]
+}
